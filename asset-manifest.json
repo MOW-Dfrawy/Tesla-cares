@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Tesla-cares/static/css/main.7d75cf9a.css",
+    "main.js": "/Tesla-cares/static/js/main.884a8d10.js",
+    "static/media/Model3.jpg": "/Tesla-cares/static/media/Model3.8157ca98bdbfb627f40f.jpg",
+    "static/media/ModelS.jpg": "/Tesla-cares/static/media/ModelS.18f32c89907bf017688d.jpg",
+    "static/media/ModelX.jpg": "/Tesla-cares/static/media/ModelX.58c13447af87f27cf333.jpg",
+    "static/media/ModelY.jpg": "/Tesla-cares/static/media/ModelY.5fd9cd09136304cc879f.jpg",
+    "static/media/TeslaHome.png": "/Tesla-cares/static/media/TeslaHome.09a703a0f26f745856aa.png",
+    "static/media/Tesla.png": "/Tesla-cares/static/media/Tesla.0577139f60fb6439c46d.png",
+    "index.html": "/Tesla-cares/index.html",
+    "main.7d75cf9a.css.map": "/Tesla-cares/static/css/main.7d75cf9a.css.map",
+    "main.884a8d10.js.map": "/Tesla-cares/static/js/main.884a8d10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d75cf9a.css",
+    "static/js/main.884a8d10.js"
+  ]
+}
